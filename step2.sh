@@ -18,5 +18,5 @@ poetry run \
 	"https://2gis.ru/tomsk/search/Разработка программного обеспечения" \
 	"https://2gis.ru/tomsk/search/Разработка программного обеспечения для мобильных устройств" \
 	"https://2gis.ru/tomsk/search/​Услуги системного администрирования" \
-	-o "C:\results.csv" -f csv
+	-o "results.csv" -f csv
 
