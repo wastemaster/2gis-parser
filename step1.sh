@@ -8,6 +8,6 @@ poetry run \
 	"https://2gis.ru/tomsk/search/Медицинские анализы" \
 	"https://2gis.ru/tomsk/search/Услуги детских врачей" \
 	"https://2gis.ru/tomsk/search/Парикмахерские" \
-	-o "C:\results.csv" -f csv
+	-o "results.csv" -f csv
 
 
